@@ -1,0 +1,45 @@
+$sidebar-background-color: #232323;
+$brand-color: #d17b00; //#ff5600
+$sidebar-color: #d17b00;
+$background-color: rgb(27, 24, 24);
+$sidebar-pill-background: $brand-color;
+$panel-default-heading-background: #000000;
+$basketball-color: #b86850;
+
+$table-body-color: #424242;
+$table-font-color: #fce9cd;
+$navbar-background-color: #212121;
+
+$navbar-color: lighten($brand-color, 10%);
+$sidebar-menu: lighten( black, 12%);
+$card-background-color: lighten(#282828, 5%);
+$card-background-color-shadow: darken(#3f3f3f, 40%);
+$card-color: lighten(#d17b00, 20%);
+$status-bar-background: #000000;
+$app-bar-background: #212121;
+$color: #d17b00;
+$card-sub-title-color: #3a5794;
+$card-highlight: $brand-color;
+
+$border-radius: 10px;
+$font-color-text: rgb(238, 231, 231);
+$field-label:rgb(220, 216, 216);
+
+/* font sizes */
+$table-font-size: .8rem;
+$input-font-size: .8rem;
+$heading-font-size: 1.1rem;
+$card-body: .9rem;
+$wrapper-font-size: 1rem;
+$card-title-font-size: 1.2rem;
+$button-font-size: 1.0rem;
+$select-font-size: .8rem;
+
+/* admin */
+$admin-background-color: lighten(black, 5%);
+$admin-font-color: white;
+$admin-table-background-color: lighten(black, 10%);
+$admin-card-background-color: lighten(black, 20%);
+$admin-table-background-color-border: lighten(black, 5%);
+$admin-input-hint-color: rgb(208, 208, 191);
+$admin-input-hint-font-size: .8rem;
